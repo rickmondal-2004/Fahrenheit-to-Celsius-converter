@@ -3,3 +3,4 @@
 3.	The line float fahrenheit, celsius; declares two variables, fahrenheit and celsius, to store the temperature in Fahrenheit and Celsius respectively.
 4.	The line printf("Enter temperature in Fahrenheit: "); prints a message to the console, asking the user to enter the temperature in Fahrenheit.
 5.	The line scanf("%f", &fahrenheit); reads the user input and stores it in the variable fahrenheit.
+6.	The line // Formula to convert Fahrenheit to Celsius is a comment, which is ignored by the compiler.
