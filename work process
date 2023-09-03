@@ -1,1 +1,1 @@
-
+1.	The first line #include <stdio.h> tells the compiler to include the stdio.h header file, which contains definitions for standard input/output functions such as printf() and scanf().
