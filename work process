@@ -8,3 +8,4 @@
 8. The line printf("%.2f Fahrenheit is equal to %.2f Celsius", fahrenheit, celsius); prints the temperature in Fahrenheit and Celsius, rounded to two decimal places.
 9. The last line return 0; returns the value 0 from the function main(), indicating that the program terminated successfully.
 
+
