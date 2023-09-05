@@ -1,6 +1,6 @@
 1. The first line #include <stdio.h> tells the compiler to include the stdio.h header file, which contains definitions for standard input/output functions such as printf() and scanf().
 2. The next line int main() declares the function main(), which is the entry point for all C programs.
-3.The line float fahrenheit, celsius; declares two variables, fahrenheit and celsius, to store the temperature in Fahrenheit and Celsius respectively.
+3. The line float fahrenheit, celsius; declares two variables, fahrenheit and celsius, to store the temperature in Fahrenheit and Celsius respectively.
 4.The line printf("Enter temperature in Fahrenheit: "); prints a message to the console, asking the user to enter the temperature in Fahrenheit.
 5.The line scanf("%f", &fahrenheit); reads the user input and stores it in the variable fahrenheit.
 6.The line // Formula to convert Fahrenheit to Celsius is a comment, which is ignored by the compiler.
